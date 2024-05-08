@@ -1,0 +1,9 @@
+
+.company_logo {
+    width: 6.5rem;
+}
+
+.company_logo img {
+    width: 100%;
+    object-fit: cover;
+}

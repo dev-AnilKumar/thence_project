@@ -1,0 +1,10 @@
+export { default as company_logo } from "./images/company_logo.svg";
+export { default as girl_img } from "./images/girl_image.png";
+export { default as rocket } from "./images/rocket.svg";
+export { default as plus } from "./images/plus.svg";
+export { default as minus } from "./images/minus.svg";
+export { default as union } from "./images/Union.svg";
+export { default as close } from "./images/Close.svg";
+export { default as green_tick } from "./images/green_tick.svg";
+export { default as errorIcon } from "./images/error.svg";
+export { default as arrow } from "./images/arrow.svg";
