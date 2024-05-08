@@ -1,14 +1,14 @@
-<h1 align="center"># [Mutable State](https://github.com/iamruhul/mutable-state)</h1>
+<h1 align="center">Thence Assignment</h1>
 
 ## Live Website
 
-Website Link - https://towhidkashem.github.io/snapchat-clone/
+Website Link - https://towhidkashem.github.io/
 
 ## Installation
 ```
-git clone https://github.com/Fengzhen8023/time-list-react.git
+git clone https://github.com/dev-AnilKumar/thence_project.git
 
-cd time-list-react
+cd thence_project
 
 npm i
 
